@@ -1,0 +1,17 @@
+{
+  "couples": {
+    "id": "1af04200-966c-4f7e-bd94-87d94e3b8a56",
+    "items": [
+      {
+        "id": "fd857dbd-9185-402f-8cc4-ecbc8fdb32c8",
+        "type": "CREDIT",
+        "stamp": "VISA"
+      },
+      {
+        "id": "0130708b-42e2-4970-b9ed-cae761561dfa",
+        "type": "DEBIT",
+        "stamp": "MASTERCARD"
+      }
+    ]
+  }
+}

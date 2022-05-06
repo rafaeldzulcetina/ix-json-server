@@ -1,0 +1,96 @@
+{
+  "couples": {
+    "id": "1af04200-966c-4f7e-bd94-87d94e3b8a56",
+    "items": [
+      {
+        "id": "fd857dbd-9185-402f-8cc4-ecbc8fdb32c8",
+        "type": "CREDIT",
+        "stamp": "VISA"
+      },
+      {
+        "id": "0130708b-42e2-4970-b9ed-cae761561dfa",
+        "type": "DEBIT",
+        "stamp": "MASTERCARD"
+      }
+    ]
+  },
+  "cardType": [
+    {
+      "name": "AMEX",
+      "createdAt": "2022-05-03T20:17:22.985Z",
+      "updatedAt": "2022-05-03T20:17:22.985Z",
+      "active": false,
+      "id": 1
+    },
+    {
+      "name": "AMEX",
+      "createdAt": "2022-05-03T20:17:22.985Z",
+      "updatedAt": "2022-05-03T20:17:22.985Z",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "AMEX",
+      "createdAt": "2022-05-03T20:17:22.985Z",
+      "updatedAt": "2022-05-03T20:17:22.985Z",
+      "active": true,
+      "id": 3
+    },
+    {
+      "name": "AMEX",
+      "createdAt": "2022-05-03T20:17:22.985Z",
+      "updatedAt": "2022-05-03T20:17:22.985Z",
+      "active": true,
+      "id": 4
+    },
+    {
+      "name": "AMEX",
+      "createdAt": "2022-05-03T20:17:22.985Z",
+      "updatedAt": "2022-05-03T20:17:22.985Z",
+      "active": true,
+      "id": 5
+    },
+    {
+      "name": "AMEX",
+      "createdAt": "2022-05-03T20:17:22.985Z",
+      "updatedAt": "2022-05-03T20:17:22.985Z",
+      "active": true,
+      "id": 6
+    },
+    {
+      "name": "AMEX",
+      "createdAt": "2022-05-03T20:17:22.985Z",
+      "updatedAt": "2022-05-03T20:17:22.985Z",
+      "active": true,
+      "id": 7
+    },
+    {
+      "name": "VISA",
+      "createdAt": "2022-05-03T20:17:22.985Z",
+      "updatedAt": "2022-05-03T20:17:22.985Z",
+      "active": true,
+      "id": 8
+    },
+    {
+      "name": "MASTERCARD",
+      "createdAt": "2022-05-03T20:17:22.985Z",
+      "updatedAt": "2022-05-03T20:17:22.985Z",
+      "active": true,
+      "id": 9
+    },
+    {
+      "name": "INBURSA",
+      "createdAt": "2022-05-03T20:17:22.985Z",
+      "updatedAt": "2022-05-03T20:17:22.985Z",
+      "active": false,
+      "id": 10
+    },
+    {
+      "name": "PALACE",
+      "createdAt": "2022-05-03T20:17:22.985Z",
+      "updatedAt": "2022-05-03T20:17:22.985Z",
+      "active": false,
+      "id": 11
+    }
+  ]
+}

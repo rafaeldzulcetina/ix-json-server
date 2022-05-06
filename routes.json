@@ -1,0 +1,3 @@
+{
+  "/couples/:id/cards": "/couples?id=:id"
+}

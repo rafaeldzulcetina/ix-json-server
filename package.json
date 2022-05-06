@@ -1,0 +1,19 @@
+{
+  "name": "serverMockPalace",
+  "version": "1.0.0",
+  "description": "api mock palace",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "author": "benjaMtz",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "parse-link-header": "^2.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+{ "cardType": [
+    {
+    "id": 1,
+    "name": "VISA",
+    "createdAt": "2022-05-03T20:17:22.985Z",
+    "updatedAt": "2022-05-03T20:17:22.985Z",
+    "active": true
+    }
+  ]
+}
