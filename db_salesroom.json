@@ -1,0 +1,52 @@
+{
+  "salesRoom": [
+    {
+      "id": "e2494b7e-ec29-4c75-b5e5-3ec56a8c241b",
+      "code": "5",
+      "name": "Grand Moon Palace",
+      "shortName": "the grand"
+    },
+    {
+      "id": "125f32f6-1546-467b-91c6-7686fd3ceb0a",
+      "code": "04",
+      "name": "Jamaican Resort",
+      "shortName": "S4"
+    },
+    {
+      "id": "1dbc9d4e-bf5f-45c1-9744-53bcba8760ab",
+      "code": "1010",
+      "name": "Moon Palace",
+      "shortName": "the grand"
+    },
+    {
+      "id": "0c5aac93-3fd9-4d05-9516-ffaa4d3077d6",
+      "code": "02",
+      "name": "Moon Vacation Gateway",
+      "shortName": "S2"
+    },
+    {
+      "id": "f748f607-77f5-4a56-aa10-6eb87a12f31c",
+      "code": "102",
+      "name": "Palace Life",
+      "shortName": "the grand"
+    },
+    {
+      "id": "2e44a68b-4da8-476b-888a-cc2d523288b1",
+      "code": "03",
+      "name": "Palace Moon",
+      "shortName": "S3"
+    },
+    {
+      "id": "26ba3f6b-6e72-4cab-8e2a-b0fd90fe84f6",
+      "code": "6010",
+      "name": "Resort Magic",
+      "shortName": "the grand"
+    },
+    {
+      "id": "ad587794-53a3-4cfe-ad78-32d794221200",
+      "code": "01",
+      "name": "Sales Moon",
+      "shortName": "S1"
+    }
+  ]
+}
