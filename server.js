@@ -1,22 +1,13 @@
 const jsonServer = require('json-server')
 const server = jsonServer.create()
 // const router = jsonServer.router(require('./db.js')())
-const router = jsonServer.router('db.json')
+const router = jsonServer.router('db_salesroom.json')
 const middlewares = jsonServer.defaults()
 const parse = require('parse-link-header');
 
 server.use(jsonServer.rewriter({
-    "/cardType" : "/cardType",
-    "/cardType?pageNumber=:pageNumber&size=:size" : "/cardType?_page=:pageNumber&_limit=:size",
-    //rutas post
-    "/cardType/:id" : "/cardType/:id",
-
-
-    "/carddetails/couples/:id": "/couples?id=:id/items",
-    "/couples/:id/cards": "/couples?id=:id"
+    "/salesRoom?pageNumber=:pageNumber&size=:size" : "/salesRoom?_page=:pageNumber&_limit=:size",
 }))
-
-//posts?_page=7&_limit=20
 
 router.render = (req, res) => {
     console.log("method--->", req.method)
@@ -42,18 +33,38 @@ router.render = (req, res) => {
                 })
             }
             if(req.originalUrl.includes('_page')){
-                const pagination = parse(res.get('link'));
-                console.log("pagination-->")
-                const limit = Number(pagination.last._limit)
+
+                //this.perPage = req.originalUrl.charAt(req.originalUrl.length - 1)
+                const arrayString = req.originalUrl.split('=');
+
+                this.perPage = arrayString[arrayString.length - 1]
+
+                console.log(this.perPage)
+                //Verificar si se puede paginar
+                if(res.get('link') !== ''){
+                    const pagination = parse(res.get('link'));
+                    console.log(pagination)
+                    // preguntar por pagination.prev
+                    this.limit = Number(pagination.next._limit)
+                    this.currentPage = (Number(pagination.next._page) -1)
+
+                    this.lastPage = pagination.last._page
+                    this.total = this.limit
+                }else{
+                    this.limit = res.locals.data.length - 1
+                    this.currentPage = 1
+                    this.lastPage = 1
+                }
+                //const limit = Number(pagination.last._limit)
                 res.jsonp({
                     data: {
                         items :res.locals.data,
-                        currentPage: (Number(pagination.next._page) -1),
+                        currentPage: this.currentPage,
                         from: 1,
-                        lastPage: Number(pagination.last._page),
-                        perPage: limit,
-                        to: limit,
-                        total: 2
+                        lastPage: this.lastPage,
+                        perPage: this.perPage,
+                        to: this.perPage,
+                        total: this.limit
                     },
                     errors: [],
                     warnings: []
