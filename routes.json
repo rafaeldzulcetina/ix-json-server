@@ -1,3 +1,4 @@
 {
-  "/couples/:id/cards": "/couples?id=:id"
+  "/salesRoom?pageNumber=:pageNumber&size=:size" : "/salesRoom?_page=:pageNumber&_limit=:size",
+  "/invitations" : "/invitations"
 }

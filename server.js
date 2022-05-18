@@ -1,16 +1,16 @@
 const jsonServer = require('json-server')
 const server = jsonServer.create()
-// const router = jsonServer.router(require('./db.js')())
-const router = jsonServer.router('db_salesroom.json')
+const router = jsonServer.router(require('./db.js')())
+const routes = require('./routes.json')
+//const router = jsonServer.router('./jsons/db_salesroom.json')
+//const router = jsonServer.router('./jsons/db_salesroom.json')
 const middlewares = jsonServer.defaults()
 const parse = require('parse-link-header');
 
-server.use(jsonServer.rewriter({
-    "/salesRoom?pageNumber=:pageNumber&size=:size" : "/salesRoom?_page=:pageNumber&_limit=:size",
-}))
+
+server.use(jsonServer.rewriter(routes))
 
 router.render = (req, res) => {
-    console.log("method--->", req.method)
     switch (req.method) {
         case 'GET':
             if(req.query.id){
@@ -24,6 +24,7 @@ router.render = (req, res) => {
                 })
             }else if (!req.originalUrl.includes('_page')){
                 console.log("method---> no_page")
+                console.log(res.locals)
                 res.jsonp({
                     data: {
                         items :res.locals.data,
