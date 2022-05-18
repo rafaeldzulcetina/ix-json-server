@@ -14,17 +14,14 @@ router.render = (req, res) => {
     switch (req.method) {
         case 'GET':
             if(req.query.id){
-                console.log("method---> id")
                 res.jsonp({
                     data: {
-                        items :res.locals.data.items,
+                        items :res.locals.data,
                     },
                     errors: [],
                     warnings: []
                 })
             }else if (!req.originalUrl.includes('_page')){
-                console.log("method---> no_page")
-                console.log(res.locals)
                 res.jsonp({
                     data: {
                         items :res.locals.data,
@@ -34,17 +31,20 @@ router.render = (req, res) => {
                 })
             }
             if(req.originalUrl.includes('_page')){
+                /**codigo luiz */
+                let arrayStr = req.originalUrl.split('?');
+                arrayStr = arrayStr[1].split('&')
+                
+                arrayStr.map((param) => {
+                    const [p, v] = param.split('=');
 
-                //this.perPage = req.originalUrl.charAt(req.originalUrl.length - 1)
-                const arrayString = req.originalUrl.split('=');
+                    if (p === '_limit')
+                        this.perPage = v
+                })
 
-                this.perPage = arrayString[arrayString.length - 1]
-
-                console.log(this.perPage)
                 //Verificar si se puede paginar
                 if(res.get('link') !== ''){
                     const pagination = parse(res.get('link'));
-                    console.log(pagination)
                     // preguntar por pagination.prev
                     this.limit = Number(pagination.next._limit)
                     this.currentPage = (Number(pagination.next._page) -1)
