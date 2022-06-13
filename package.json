@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "test",
-    "serve": "nodemon server.js --watch"
+    "start": "json-server --watch db.json --port 3000"
   },
   "author": "benjaMtz",
   "license": "ISC",
