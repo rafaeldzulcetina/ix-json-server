@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "test",
-    "start": "json-server --watch db.json --port 3000"
+    "start": "json-server --watch db.js --port 3000"
   },
   "author": "benjaMtz",
   "license": "ISC",
