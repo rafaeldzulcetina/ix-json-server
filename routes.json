@@ -1,4 +1,5 @@
 {
   "/salesRoom?pageNumber=:pageNumber&size=:size" : "/salesRoom?_page=:pageNumber&_limit=:size",
-  "/invitations?pageNumber=:pageNumber&size=:size/id=:id" : "/invitations?_page=:pageNumber&_limit=:size&_id=:id"
+  "/invitations?pageNumber=:pageNumber&size=:size/id=:id" : "/invitations?_page=:pageNumber&_limit=:size&_id=:id",
+  "/tours?pageNumber=:pageNumber&size=:size" : "/tours?_page=:pageNumber&_limit=:size"
 }
