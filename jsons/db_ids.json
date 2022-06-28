@@ -1,0 +1,121 @@
+{
+  "identifications": [
+    {
+      "id": "1",
+      "label": "Pasaporte",
+      "isChecked": false,
+      "isRequired": true,
+      "value": "",
+      "hasField": true
+    },
+    {
+      "id": "2",
+      "label": "Forma migratoria",
+      "isChecked": false,
+      "isRequired": true,
+      "value": ""
+    },
+    {
+      "id": "3",
+      "label": "Licencia",
+      "isChecked": false,
+      "isRequired": true,
+      "value": "",
+      "hasField": true,
+      "maxLenght": 10
+    },
+    {
+      "id": "4",
+      "label": "INE/IFE",
+      "isChecked": false,
+      "isRequired": true,
+      "value": "",
+      "hasField": true,
+      "maxLenght": 18
+    },
+    {
+      "id": "5",
+      "label": "Tarjeta de pasaporte",
+      "isChecked": false,
+      "isRequired": false,
+      "value": ""
+    },
+    {
+      "id": "6",
+      "label": "Cédula de identidad",
+      "isChecked": false,
+      "isRequired": false,
+      "value": ""
+    },
+    {
+      "id": "7",
+      "label": "Tarjeta de residencia permanente",
+      "isChecked": false,
+      "isRequired": false,
+      "value": ""
+    },
+    {
+      "id": "8",
+      "label": "Pasaporte Mexicano",
+      "isChecked": false,
+      "isRequired": false,
+      "value": ""
+    },
+    {
+      "id": "9",
+      "label": "Identificacion gubernamental",
+      "isChecked": false,
+      "isRequired": false,
+      "value": ""
+    },
+    {
+      "id": "10",
+      "label": "Tarjeta de cruce fronterizo",
+      "isChecked": false,
+      "isRequired": false,
+      "value": ""
+    },
+    {
+      "id": "11",
+      "label": "Constancia de residencia fiscal",
+      "isChecked": false,
+      "isRequired": false,
+      "value": ""
+    },
+    {
+      "id": "12",
+      "label": "Cédula profesional(Mexicana)",
+      "isChecked": false,
+      "isRequired": false,
+      "value": ""
+    },
+    {
+      "id": "13",
+      "label": "Cédula de identidad",
+      "isChecked": false,
+      "isRequired": false,
+      "value": ""
+    },
+    {
+      "id": "14",
+      "label": "Comprobante de domicilio",
+      "isChecked": false,
+      "isRequired": false,
+      "value": ""
+    },
+    {
+      "id": "15",
+      "label": "Documento migratorio (FM2)",
+      "isChecked": false,
+      "isRequired": false,
+      "value": ""
+    },
+    {
+      "id": "16",
+      "label": "Documento migratorio (FM3)",
+      "isChecked": false,
+      "isRequired": false,
+      "value": ""
+    }
+  ]
+}
