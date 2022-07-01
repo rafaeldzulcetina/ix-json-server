@@ -1,0 +1,19 @@
+{
+  "contract_status": [
+    {
+      "id": "1",
+      "name": "Roles",
+      "key": "roles"
+    },
+    {
+      "id": "2",
+      "name": "Financiamiento",
+      "key": "financing"
+    },
+    {
+      "id": "3",
+      "name": "Promociones",
+      "key": "promotions"
+    }
+  ]
+}
