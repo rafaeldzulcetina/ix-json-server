@@ -4,5 +4,6 @@
   "/tours?pageNumber=:pageNumber&size=:size": "/tours?_page=:pageNumber&_limit=:size",
   "/identifications?pageNumber=:pageNumber&size=:size": "/identifications?_page=:pageNumber&_limit=:size",
   "/contract_status?pageNumber=:pageNumber&size=:size": "/contract_status?_page=:pageNumber&_limit=:size",
-  "/capture_phases?pageNumber=:pageNumber&size=:size": "/capture_phases?_page=:pageNumber&_limit=:size"
+  "/capture_phases?pageNumber=:pageNumber&size=:size": "/capture_phases?_page=:pageNumber&_limit=:size",
+  "/contract_roles?pageNumber=:pageNumber&size=:size": "/contract_roles?_page=:pageNumber&_limit=:size"
 }
