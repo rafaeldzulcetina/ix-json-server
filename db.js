@@ -4,6 +4,7 @@ const db_tours = require('./jsons/db_tours.json');
 const db_ids = require('./jsons/db_ids.json');
 const contract_status = require('./jsons/contract_status.json');
 const contract_roles = require('./jsons/contract_roles.json');
+const guests = require('./jsons/guests.json');
 
 module.exports = function () {
     return Object.assign({},
@@ -12,6 +13,7 @@ module.exports = function () {
         db_tours,
         db_ids,
         contract_status,
-        contract_roles
+        contract_roles,
+        guests
     )
 }

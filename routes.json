@@ -5,5 +5,6 @@
   "/identifications?pageNumber=:pageNumber&size=:size": "/identifications?_page=:pageNumber&_limit=:size",
   "/contract_status?pageNumber=:pageNumber&size=:size": "/contract_status?_page=:pageNumber&_limit=:size",
   "/capture_phases?pageNumber=:pageNumber&size=:size": "/capture_phases?_page=:pageNumber&_limit=:size",
-  "/contract_roles?pageNumber=:pageNumber&size=:size": "/contract_roles?_page=:pageNumber&_limit=:size"
+  "/contract_roles?pageNumber=:pageNumber&size=:size": "/contract_roles?_page=:pageNumber&_limit=:size",
+  "/guests?pageNumber=:pageNumber&size=:size&guestId=:guestId&name=:name&affiliation=:affiliation": "/guests?_page=:pageNumber&_limit=:size&_guestId=:guestId&_name=:name&_affiliation=:affiliation"
 }

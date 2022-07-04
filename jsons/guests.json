@@ -1,0 +1,17 @@
+{
+    "guests": [
+      {
+        "code": "IX-4820",
+        "name": "Bruce Wayne"
+      },
+      {
+        "code": "IX-4859",
+        "name": "Bruce Banner"
+      },
+      {
+        "code": "IX-3829",
+        "name": "Bruce Lee"
+      }
+    ]
+  }
+  
