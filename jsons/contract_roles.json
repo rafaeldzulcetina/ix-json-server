@@ -1,0 +1,22 @@
+{
+  "contract_roles": [
+    {
+      "id": "1",
+      "key": "owner",
+      "name": "Propietario",
+      "name_english": "Owner"
+    },
+    {
+      "id": "2",
+      "key": "Beneficiary",
+      "name": "Beneficiario",
+      "name_english": "beneficiary"
+    },
+    {
+      "id": "3",
+      "key": "payer",
+      "name": "Pagador",
+      "name_english": "Payer"
+    }
+  ]
+}

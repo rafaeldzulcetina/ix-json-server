@@ -2,18 +2,23 @@
   "contract_status": [
     {
       "id": "1",
-      "name": "Roles",
-      "key": "roles"
+      "name": "En captura",
+      "key": "capture"
     },
     {
       "id": "2",
-      "name": "Financiamiento",
-      "key": "financing"
+      "name": "Procesando",
+      "key": "processing"
     },
     {
       "id": "3",
-      "name": "Promociones",
-      "key": "promotions"
+      "name": "Capturado",
+      "key": "captured"
+    },
+    {
+      "id": "3",
+      "name": "Finalizado",
+      "key": "finished"
     }
   ]
 }
