@@ -1,19 +1,94 @@
 {
     "guests": [
       {
-        "guestId": "54321",
-        "name": "Bruce",
-        "lastName": "Wayne"
+        "membership": "FEAXW2123",
+        "guest": {
+          "room": "12345",
+          "person": {
+            "code": "12345",
+            "name": "Bruce",
+            "lastname": "Wayne",
+            "fullName": "Bruce Wayne"
+          }
+        },
+        "property": {
+          "name": "Sunrise"
+        }
       },
       {
-        "guestId": "IX-4859",
-        "name": "Bruce",
-        "lastName": "Banner"
+        "membership": "123SDC",
+        "guest": {
+          "room": "54321",
+          "person": {
+            "code": "IX-4821",
+            "name": "Clark",
+            "lastname": "Kent",
+            "fullName": "Clark Kent"
+          }
+        },
+        "property": {
+          "name": "The Grand"
+        }
       },
       {
-        "guestId": "IX-3829",
-        "name": "Bruce",
-        "lastName": "Lee"
+        "membership": "FEAXW2143",
+        "guest": {
+          "room": "12347",
+          "person": {
+            "code": "IX-4825",
+            "name": "Bruce",
+            "lastname": "Lee",
+            "fullName": "Bruce Lee"
+          }
+        },
+        "property": {
+          "name": "Sunrise"
+        }
+      },
+      {
+        "membership": "123SDC",
+        "guest": {
+          "room": "54321",
+          "person": {
+            "code": "IX-4826",
+            "name": "Clark",
+            "lastname": "Lang",
+            "fullName": "Clark Lang"
+          }
+        },
+        "property": {
+          "name": "The Grand"
+        }
+      },
+      {
+        "membership": "FEAPW2123",
+        "guest": {
+          "room": "12545",
+          "person": {
+            "code": "IX-4820",
+            "name": "Bruce",
+            "lastname": "Banner",
+            "fullName": "Bruce Banner"
+          }
+        },
+        "property": {
+          "name": "Sunrise"
+        }
+      },
+      {
+        "membership": "123SDC",
+        "guest": {
+          "room": "54341",
+          "person": {
+            "code": "IX-4821",
+            "name": "Clark",
+            "lastname": "Middleton",
+            "fullName": "Clark Middleton"
+          }
+        },
+        "property": {
+          "name": "The Grand"
+        }
       }
     ]
   }
