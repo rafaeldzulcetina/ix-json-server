@@ -1,16 +1,19 @@
 {
     "guests": [
       {
-        "code": "IX-4820",
-        "name": "Bruce Wayne"
+        "guestId": "54321",
+        "name": "Bruce",
+        "lastName": "Wayne"
       },
       {
-        "code": "IX-4859",
-        "name": "Bruce Banner"
+        "guestId": "IX-4859",
+        "name": "Bruce",
+        "lastName": "Banner"
       },
       {
-        "code": "IX-3829",
-        "name": "Bruce Lee"
+        "guestId": "IX-3829",
+        "name": "Bruce",
+        "lastName": "Lee"
       }
     ]
   }
