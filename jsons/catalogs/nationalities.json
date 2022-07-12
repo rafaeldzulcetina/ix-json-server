@@ -1,0 +1,220 @@
+{
+  "nationalities": [
+    {
+        "id": "f10943f7-2243-4a86-b383-e77af3cdb4d5",
+        "name": "American"
+    },
+    {
+        "id": "3c97ced7-ea36-4a94-861a-38d8ee0b2a36",
+        "name": "Argentinean"
+    },
+    {
+        "id": "1eadf7da-87c8-467e-835d-0b5bb8abe6fa",
+        "name": "Australian"
+    },
+    {
+        "id": "560d5fb4-602c-48be-b8ba-e2685c96a489",
+        "name": "Belgian"
+    },
+    {
+        "id": "e807a759-d4b0-4aea-a82d-c74fb013f405",
+        "name": "Brazilian"
+    },
+    {
+        "id": "55b76eae-562e-4390-9a77-25cb619b5963",
+        "name": "Canadian"
+    },
+    {
+        "id": "6d62ed8c-1748-4fac-ab7f-cdbf5ee68ca5",
+        "name": "Chilean"
+    },
+    {
+        "id": "07fe21ce-dce1-4715-bdb9-22fd8d628766",
+        "name": "Chinese"
+    },
+    {
+        "id": "1826e41e-c80f-4535-a119-fceba8a04ee1",
+        "name": "Colombian"
+    },
+    {
+        "id": "f867af31-1ea3-4751-8439-f7a61a35f5b3",
+        "name": "Costa Rican"
+    },
+    {
+        "id": "6ab4e45e-1092-4a60-b8b6-00511c9bd356",
+        "name": "Cuban"
+    },
+    {
+        "id": "a84aa75e-3285-4eee-ad31-e52e2cc431aa",
+        "name": "Danish (Dane)"
+    },
+    {
+        "id": "d35b815b-4812-45c4-b449-537d9348b017",
+        "name": "Dominican"
+    },
+    {
+        "id": "220ae7db-8dad-4e16-8a94-97ba3544dd70",
+        "name": "Dutch"
+    },
+    {
+        "id": "57df0c2e-b4dc-4ada-bfb7-570254aa1d7e",
+        "name": "Ecuatorian"
+    },
+    {
+        "id": "f71f963d-ef4a-4c3d-8bc3-7bdf1dff67ba",
+        "name": "Egyptian"
+    },
+    {
+        "id": "657b5aa8-8d21-4245-a28b-25b40b6628cd",
+        "name": "English"
+    },
+    {
+        "id": "5eedf302-62ab-408f-8dcd-433cf03c3898",
+        "name": "Finnish"
+    },
+    {
+        "id": "08a3f2e3-b3c8-4633-8a4a-cfe36a536387",
+        "name": "French"
+    },
+    {
+        "id": "6bcaa34e-1f7f-42fe-a85a-0d950819a588",
+        "name": "German"
+    },
+    {
+        "id": "aecb02fb-7b23-413d-adc3-65a359801148",
+        "name": "Greek"
+    },
+    {
+        "id": "d27b4d56-2be3-4431-9156-aab9ad63cc01",
+        "name": "Guatemalan"
+    },
+    {
+        "id": "4ab5e31d-ea91-4595-9c69-ed2910186596",
+        "name": "Haitian"
+    },
+    {
+        "id": "b14f6d9f-ac1f-48e0-bc48-dca3f7f57a57",
+        "name": "Honduran"
+    },
+    {
+        "id": "ea0c35e3-b740-4ee0-9474-5421e3281245",
+        "name": "Irish"
+    },
+    {
+        "id": "f081c2ca-8a0d-4610-8633-b6ed101a51eb",
+        "name": "Israeli"
+    },
+    {
+        "id": "c24760fd-6d05-4a2d-88f0-bc3a37b5b50b",
+        "name": "Italian"
+    },
+    {
+        "id": "482c49bb-7232-4b73-a1db-29c9e173b605",
+        "name": "Italian"
+    },
+    {
+        "id": "61d2116d-31f0-4edb-bb89-de1d977125c3",
+        "name": "Japanese"
+    },
+    {
+        "id": "04607b36-da80-4b8b-882c-e64ba60a95cc",
+        "name": "Korean"
+    },
+    {
+        "id": "633308bf-7758-4e16-b5e4-d82cb5d3f139",
+        "name": "Mexican"
+    },
+    {
+        "id": "d1166393-5c75-4272-922b-2d4b3f3d8982",
+        "name": "New Zealander"
+    },
+    {
+        "id": "4124dbd3-4ae2-44ca-9a61-3cf2677cbc8f",
+        "name": "Nicaraguan"
+    },
+    {
+        "id": "3dbae86b-2d6f-490c-bd64-1161684d0a48",
+        "name": "Norwegian"
+    },
+    {
+        "id": "faa5fea3-d459-427e-b5a7-eae8a6098aad",
+        "name": "Panamanian"
+    },
+    {
+        "id": "48342240-e136-45b7-aacf-0fbce130691b",
+        "name": "Paraguayan"
+    },
+    {
+        "id": "a6d17c59-38a6-45c3-9a9c-f2deb2992e63",
+        "name": "Peruvian"
+    },
+    {
+        "id": "326234c3-56c5-4dac-976c-75d195125e24",
+        "name": "Polish"
+    },
+    {
+        "id": "e5ba7983-bb39-4a65-a5e3-00f96994211d",
+        "name": "Portuguese"
+    },
+    {
+        "id": "d633b61e-9eb7-4b9c-b344-d36abe019f88",
+        "name": "Portuguese"
+    },
+    {
+        "id": "0fc36c2f-de20-4987-98a8-6d4e47538893",
+        "name": "Puerto Rican"
+    },
+    {
+        "id": "b3af549e-11f5-4feb-b2f5-4d33d25ba2a6",
+        "name": "Russian"
+    },
+    {
+        "id": "7600cce1-e0c3-46ff-bac4-193ccbe4336c",
+        "name": "Salvadorian"
+    },
+    {
+        "id": "f758d44b-9de0-4e2a-89a3-aa18ad2c360b",
+        "name": "Saudi"
+    },
+    {
+        "id": "db53a083-7ebe-4e75-85a7-660dfed436d2",
+        "name": "Spanish"
+    },
+    {
+        "id": "62f7fd17-1e9e-4e48-98b0-ab354c7a4cfd",
+        "name": "Swedish"
+    },
+    {
+        "id": "5fcf19ca-9f79-4584-a48a-24eb45b070ad",
+        "name": "Swiss"
+    },
+    {
+        "id": "424af338-da1a-4997-87fa-292dd97ee8b3",
+        "name": "Taiwanese"
+    },
+    {
+        "id": "3ec3dadf-f394-41ae-b72c-028b6f6a599b",
+        "name": "Thai"
+    },
+    {
+        "id": "ffcb68d3-209e-4ef0-8638-1f92ea76a5de",
+        "name": "Turkish"
+    },
+    {
+        "id": "d22e7aee-8481-41fe-9113-535175b9dea3",
+        "name": "Uruguayan"
+    },
+    {
+        "id": "5363faf1-a09c-4e77-aa97-24b143dc97ac",
+        "name": "Venezuelan"
+    },
+    {
+        "id": "de0dd672-aabd-454b-b4f8-31c026e28309",
+        "name": "Vietnamese"
+    },
+    {
+        "id": "c4f642d3-f421-447d-8937-dd12b5ca2764",
+        "name": "Welsh"
+    }
+]
+}
