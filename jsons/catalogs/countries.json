@@ -1,0 +1,1209 @@
+{
+  "countries": [
+    {
+        "id": "4834f699-2889-4375-9069-13d98f412b83",
+        "name": "Canada",
+        "shortName": "CA"
+    },
+    {
+        "id": "80963c6c-7b90-407e-aa1c-f1793695e501",
+        "name": "México",
+        "shortName": "MX"
+    },
+    {
+        "id": "e4b404de-af63-4e66-9362-f0408b038cfe",
+        "name": "United States",
+        "shortName": "EN"
+    },
+    {
+        "id": "c34a8160-93de-4f88-b5d7-f490b2348497",
+        "name": "Afghanistan",
+        "shortName": "AF"
+    },
+    {
+        "id": "3b3bb816-febf-4d5b-9e44-cc1d0f2ef8e8",
+        "name": "Albania",
+        "shortName": "AL"
+    },
+    {
+        "id": "af407847-720a-4f1a-b2a7-dc30e94529cb",
+        "name": "Algeria",
+        "shortName": "DZ"
+    },
+    {
+        "id": "1a9340d2-6582-4bb3-929a-41dda51808d6",
+        "name": "American Samoa",
+        "shortName": "AS"
+    },
+    {
+        "id": "1de3e934-0f61-4e16-94a2-0424d9308de9",
+        "name": "Andorra",
+        "shortName": "AD"
+    },
+    {
+        "id": "0dac93b2-7fb0-470d-81eb-7129bcde2b56",
+        "name": "Angola",
+        "shortName": "AO"
+    },
+    {
+        "id": "1bb508bd-5085-422f-8f20-21119acb9741",
+        "name": "Anguilla/St Kitts",
+        "shortName": "AI"
+    },
+    {
+        "id": "491c9566-d77a-4d6c-93e8-a0456e8fdd9d",
+        "name": "Antarctica",
+        "shortName": "AQ"
+    },
+    {
+        "id": "cd9e95ef-a593-4309-adb5-9f9dd1c22740",
+        "name": "Antigua and Barbuda",
+        "shortName": "AG"
+    },
+    {
+        "id": "375dd7d7-4e64-4e21-a51f-b995e62444cf",
+        "name": "Argentina",
+        "shortName": "AR"
+    },
+    {
+        "id": "cb1110ee-f7ff-4a04-887e-8dedb606a217",
+        "name": "Armenia",
+        "shortName": "AM"
+    },
+    {
+        "id": "5d3c0ea5-e7b2-478a-9cbf-80fb966f91cb",
+        "name": "Aruba",
+        "shortName": "AW"
+    },
+    {
+        "id": "4d18075f-4c63-4dc8-a3ad-da5edb501630",
+        "name": "Australia",
+        "shortName": "AU"
+    },
+    {
+        "id": "c068b6ed-7d3b-4cb2-aae0-b77e4f4669a4",
+        "name": "Austria",
+        "shortName": "AT"
+    },
+    {
+        "id": "f689909e-e6a5-4eb0-9808-27eb285d8c9e",
+        "name": "Azerbaijan",
+        "shortName": "AZ"
+    },
+    {
+        "id": "85022d67-773d-4128-94dd-3613b9f85a9d",
+        "name": "Bahamas",
+        "shortName": "BS"
+    },
+    {
+        "id": "1e424013-d423-4921-8bf7-95579d0c5826",
+        "name": "Bahrain",
+        "shortName": "BH"
+    },
+    {
+        "id": "7a2f1bf8-69a6-4b21-a3f0-9d819b7147fb",
+        "name": "Bangladesh",
+        "shortName": "BD"
+    },
+    {
+        "id": "03131acb-fdc9-425d-81ca-a83392754cab",
+        "name": "Barbados",
+        "shortName": "BB"
+    },
+    {
+        "id": "4f3f7507-ccb4-407b-a937-e1a77a69ac9f",
+        "name": "Belarus",
+        "shortName": "BY"
+    },
+    {
+        "id": "19b24529-d763-48ca-8a39-fd3a60037387",
+        "name": "Belgium",
+        "shortName": "BE"
+    },
+    {
+        "id": "ec8a4164-685b-412f-a9cf-4c15549e276f",
+        "name": "Belize",
+        "shortName": "BZ"
+    },
+    {
+        "id": "f0232234-9a43-45c8-9c24-85fc8d38b84c",
+        "name": "Benin",
+        "shortName": "BJ"
+    },
+    {
+        "id": "249fee68-68bf-46ae-86d4-4e4122e60ad0",
+        "name": "Bermuda",
+        "shortName": "BM"
+    },
+    {
+        "id": "a558928c-6b14-49c8-9a7b-e15614041f37",
+        "name": "Bhutan",
+        "shortName": "BT"
+    },
+    {
+        "id": "c53657e8-33e1-431c-8d84-5fd040725d51",
+        "name": "Bolivia",
+        "shortName": "BO"
+    },
+    {
+        "id": "c4946415-f1c1-43a1-aa1d-384428cb0a55",
+        "name": "Bonaire,Saba,St Eustatius",
+        "shortName": "BQ"
+    },
+    {
+        "id": "255bd385-6e18-4f39-8f91-73b85103d6bb",
+        "name": "Bosnia Herzegovina",
+        "shortName": "BA"
+    },
+    {
+        "id": "7b0814b6-37eb-45b1-9281-5fb4395c152f",
+        "name": "Botswana",
+        "shortName": "BW"
+    },
+    {
+        "id": "7631a4a3-e567-4d43-82bb-aa80053ec04a",
+        "name": "Brazil",
+        "shortName": "BR"
+    },
+    {
+        "id": "06768372-7c84-401d-a1aa-1ffca422f41c",
+        "name": "British Indian Ocean Territory",
+        "shortName": "IO"
+    },
+    {
+        "id": "b208da93-f181-432e-833d-24727db3fa85",
+        "name": "Brunei Darussalam",
+        "shortName": "BN"
+    },
+    {
+        "id": "6f158e83-b576-40eb-8a02-f07ed73a804b",
+        "name": "Bulgaria",
+        "shortName": "BG"
+    },
+    {
+        "id": "2a62b05d-012f-4988-b1d6-8c064acd71eb",
+        "name": "Burkina Fasa",
+        "shortName": "BF"
+    },
+    {
+        "id": "e690ce9f-eeee-4fcc-b510-52bafb7f499c",
+        "name": "Burundi",
+        "shortName": "BI"
+    },
+    {
+        "id": "9cc0aa4b-7018-43b3-b54f-1d345ff93a37",
+        "name": "Cambodia",
+        "shortName": "KH"
+    },
+    {
+        "id": "fa86843c-211d-4d97-9cd9-919af4bcce40",
+        "name": "Cameroon",
+        "shortName": "CM"
+    },
+    {
+        "id": "6e9df90f-1cf0-43f4-a115-a698387dfe8f",
+        "name": "Cape Verde",
+        "shortName": "CV"
+    },
+    {
+        "id": "56bc8648-cb3f-46f3-a4e0-f0f57987f5a1",
+        "name": "Cayman Islands",
+        "shortName": "KY"
+    },
+    {
+        "id": "bae196a7-ac96-4f93-87ad-eee8ae6b0958",
+        "name": "Central African Republic",
+        "shortName": "CF"
+    },
+    {
+        "id": "44098ff8-f53f-4e93-be5e-14d5c6d7ebd2",
+        "name": "Chad",
+        "shortName": "TD"
+    },
+    {
+        "id": "1fa95209-1dbb-4dea-9633-7468624edb88",
+        "name": "Chile",
+        "shortName": "CL"
+    },
+    {
+        "id": "5f3512b9-5719-4e4c-981d-1d4af4d1adff",
+        "name": "China",
+        "shortName": "CN"
+    },
+    {
+        "id": "ba00ea79-bf28-426f-823c-21d93f7d7635",
+        "name": "Christmas Island",
+        "shortName": "CX"
+    },
+    {
+        "id": "2affadb5-a6b9-4aa3-8a39-d2049b99d876",
+        "name": "Cocos (Keeling) Islands",
+        "shortName": "CC"
+    },
+    {
+        "id": "e86b352c-f030-415f-8669-caf0571a7869",
+        "name": "Colombia",
+        "shortName": "CO"
+    },
+    {
+        "id": "9b96aed8-c27f-4412-a9fb-092e6df6de38",
+        "name": "Comoros",
+        "shortName": "KM"
+    },
+    {
+        "id": "33e61219-a745-4295-a4b7-fce4ebda9727",
+        "name": "Congo",
+        "shortName": "CG"
+    },
+    {
+        "id": "28721c28-4bcc-4ff2-866f-7134f0ae266d",
+        "name": "Congo, The Democratic Republic of the",
+        "shortName": "CD"
+    },
+    {
+        "id": "8e711284-904b-4816-b64a-663d43ce30e3",
+        "name": "Cook Island",
+        "shortName": "CK"
+    },
+    {
+        "id": "daeeef39-72fb-4a23-b7da-a94a4b09592e",
+        "name": "Costa Rica",
+        "shortName": "CR"
+    },
+    {
+        "id": "97e27ed4-d3ee-41a5-aff3-ef15f9192e3c",
+        "name": "Cote D'Ivoire",
+        "shortName": "CI"
+    },
+    {
+        "id": "9f0b8325-607e-4d42-9c8a-147ccc53e6c0",
+        "name": "Croatia",
+        "shortName": "HR"
+    },
+    {
+        "id": "4519f1eb-b3d8-4738-b734-b572598340cc",
+        "name": "Cuba",
+        "shortName": "CU"
+    },
+    {
+        "id": "425943b1-48f1-4d21-8a6d-dd02b5f1f358",
+        "name": "Curacao",
+        "shortName": "CW"
+    },
+    {
+        "id": "fa7516a8-65d6-4bde-9f15-7aee28d5d8e5",
+        "name": "Cyprus",
+        "shortName": "CY"
+    },
+    {
+        "id": "6919b0fe-4899-4681-a51a-04b7d4e378d8",
+        "name": "Czech Republic",
+        "shortName": "CZ"
+    },
+    {
+        "id": "ab66facd-7db6-46dd-b0c7-41f3d54171dc",
+        "name": "Denmark",
+        "shortName": "DK"
+    },
+    {
+        "id": "631c3701-c979-43f1-80be-aacf46fe7f3b",
+        "name": "Djibouti",
+        "shortName": "DJ"
+    },
+    {
+        "id": "e63b078e-2ea7-4df0-acf7-9153b4d61139",
+        "name": "Dominica",
+        "shortName": "DM"
+    },
+    {
+        "id": "8435c027-f1fd-4f01-910a-da9b5167de93",
+        "name": "Dominican Republic",
+        "shortName": "DO"
+    },
+    {
+        "id": "4cc17284-4084-44d7-b598-a641b900c8cf",
+        "name": "East Timor",
+        "shortName": "TP"
+    },
+    {
+        "id": "4d7fa749-d889-41f9-ae96-b038cf935577",
+        "name": "Ecuador",
+        "shortName": "EC"
+    },
+    {
+        "id": "559b0be3-123c-477b-b73f-53d62911e882",
+        "name": "Egypt",
+        "shortName": "EG"
+    },
+    {
+        "id": "3065880e-b818-4409-9dff-ad741037a8af",
+        "name": "El Salvador",
+        "shortName": "SV"
+    },
+    {
+        "id": "052fce33-df4f-4449-b226-4c8483b9ff6e",
+        "name": "Equatorial Guinea",
+        "shortName": "GQ"
+    },
+    {
+        "id": "12832148-9fb3-4c08-9d29-930eaf6d271e",
+        "name": "Eritrea",
+        "shortName": "ER"
+    },
+    {
+        "id": "5aaba71f-0b16-4f2c-a573-59e36e7635ad",
+        "name": "Estonia",
+        "shortName": "EE"
+    },
+    {
+        "id": "f914bec3-1da6-4ad9-9aeb-6bab48809e8f",
+        "name": "Ethiopia",
+        "shortName": "ET"
+    },
+    {
+        "id": "a6d2b92a-f6f2-4d75-b31e-6700f626942f",
+        "name": "Fiji",
+        "shortName": "FJ"
+    },
+    {
+        "id": "2118ef72-ab58-43c3-b4e6-6c5e345b6f5e",
+        "name": "Finland",
+        "shortName": "FI"
+    },
+    {
+        "id": "40511e4c-cd6f-40c5-bfd3-ba249e697fe0",
+        "name": "France",
+        "shortName": "FX"
+    },
+    {
+        "id": "0bec28b3-b9fc-4f91-8ecb-9975e892a24c",
+        "name": "France",
+        "shortName": "FR"
+    },
+    {
+        "id": "e7b3f5ad-c318-4ffa-925c-fa93f2d9ebf1",
+        "name": "French Guiana",
+        "shortName": "GF"
+    },
+    {
+        "id": "673e6da7-49a7-4a0e-bfde-7a7a58b4ed34",
+        "name": "French Polynesia",
+        "shortName": "PF"
+    },
+    {
+        "id": "df06f4be-88d6-4867-b4e0-465642ddd5d5",
+        "name": "French Souther Territories",
+        "shortName": "TF"
+    },
+    {
+        "id": "3af019dc-21b8-4ec3-8dce-4f0d1349b30a",
+        "name": "Gabon",
+        "shortName": "GA"
+    },
+    {
+        "id": "0f1db2f2-7989-465d-af3f-f99caf9c61df",
+        "name": "Gambia",
+        "shortName": "GM"
+    },
+    {
+        "id": "d410391f-6c77-4a70-9035-2019286f23a7",
+        "name": "Georgia",
+        "shortName": "GE"
+    },
+    {
+        "id": "7c813e3c-6f71-4894-a392-a774ddb83d4e",
+        "name": "Germany",
+        "shortName": "DE"
+    },
+    {
+        "id": "c73514ad-39fc-42c8-ad19-15bf1716bbb3",
+        "name": "Ghana",
+        "shortName": "GH"
+    },
+    {
+        "id": "7fbaa1cc-7a88-42d2-9542-f4ea414832aa",
+        "name": "Gibraltar",
+        "shortName": "GI"
+    },
+    {
+        "id": "af6d339d-ced1-4f61-b124-da8b4631fa17",
+        "name": "Great Britain",
+        "shortName": "GB"
+    },
+    {
+        "id": "140ab905-da63-4bd9-a7aa-7f0333f5b0a1",
+        "name": "Greece",
+        "shortName": "GR"
+    },
+    {
+        "id": "7862f5d6-4088-4a2b-93f5-fa1e313b6625",
+        "name": "Greenland",
+        "shortName": "GL"
+    },
+    {
+        "id": "be2f09d8-b901-4d8a-8f03-4ac4dae4f4f5",
+        "name": "Grenada",
+        "shortName": "GD"
+    },
+    {
+        "id": "43278c74-0b8b-4040-89df-115388136c4f",
+        "name": "Guadeloupe/St Martin",
+        "shortName": "GP"
+    },
+    {
+        "id": "9830fd9e-e420-4d27-bfa0-16a145ed480d",
+        "name": "Guam",
+        "shortName": "GU"
+    },
+    {
+        "id": "c2ca1440-40da-4a00-9ce1-22fc1638be46",
+        "name": "Guatemala",
+        "shortName": "GT"
+    },
+    {
+        "id": "a172882f-907f-4373-b329-b4946f76da3e",
+        "name": "Guinea",
+        "shortName": "GN"
+    },
+    {
+        "id": "8891a08f-14a8-4d45-bd6e-5243981f0e85",
+        "name": "Guinea Bissau",
+        "shortName": "GW"
+    },
+    {
+        "id": "7dd63e50-3888-4af3-82e2-6e8fb955054c",
+        "name": "Guyana",
+        "shortName": "GY"
+    },
+    {
+        "id": "f3f001ff-bcb7-48bf-ac1c-40f7b9b1c3d2",
+        "name": "Haiti",
+        "shortName": "HT"
+    },
+    {
+        "id": "ca10aeb7-9d2b-44c5-a01f-cd2ad86cf654",
+        "name": "Honduras",
+        "shortName": "HN"
+    },
+    {
+        "id": "022c2b3f-5064-4a59-b76a-8c0d85366fbe",
+        "name": "Hong Kong",
+        "shortName": "HK"
+    },
+    {
+        "id": "88bd78fb-88be-4cc7-81f8-eb61f6ccee0d",
+        "name": "Hungary",
+        "shortName": "HU"
+    },
+    {
+        "id": "33d11847-0ec0-4ba1-b44e-c9a8749caccc",
+        "name": "Iceland",
+        "shortName": "IS"
+    },
+    {
+        "id": "633ca601-e910-4fa2-9fed-b3e798493ed0",
+        "name": "India",
+        "shortName": "IN"
+    },
+    {
+        "id": "4443346b-e53b-496c-b911-a2655eba846a",
+        "name": "Indonesia",
+        "shortName": "ID"
+    },
+    {
+        "id": "8bf10faa-4846-4dbc-bd64-f5176605c3e4",
+        "name": "Iran",
+        "shortName": "IR"
+    },
+    {
+        "id": "414a4663-c9db-400d-ab9c-e9392df5fbe6",
+        "name": "Iraq",
+        "shortName": "IQ"
+    },
+    {
+        "id": "c7108fcb-a1cf-4829-8be4-7d4463036fbf",
+        "name": "Ireland",
+        "shortName": "IE"
+    },
+    {
+        "id": "f116129e-68cf-4e52-ac79-e9d43db70043",
+        "name": "Isle Of Man",
+        "shortName": "IM"
+    },
+    {
+        "id": "34f98f2e-666f-4c75-b35a-5e15db890689",
+        "name": "Israel",
+        "shortName": "IL"
+    },
+    {
+        "id": "59d27e5d-85b5-4509-9438-bd80e2a9d36a",
+        "name": "Italy",
+        "shortName": "IT"
+    },
+    {
+        "id": "84824f3e-0b07-4e92-8f33-4e07d52d1287",
+        "name": "Jamaica",
+        "shortName": "JM"
+    },
+    {
+        "id": "96256067-1754-4fe2-9d17-80be942b59e6",
+        "name": "Japan",
+        "shortName": "JP"
+    },
+    {
+        "id": "49a524d6-e4be-45b4-92e5-4b84c44f97a0",
+        "name": "Jordan",
+        "shortName": "JO"
+    },
+    {
+        "id": "5c68d2a7-b7b1-49b2-8229-ddf7dc76b2b1",
+        "name": "Kazakhstan",
+        "shortName": "KZ"
+    },
+    {
+        "id": "2fc1f189-9025-4196-b622-394dec735dac",
+        "name": "Kenya",
+        "shortName": "KE"
+    },
+    {
+        "id": "55ab1e17-7301-4fa2-a891-1564f75b6396",
+        "name": "Kiribati",
+        "shortName": "KI"
+    },
+    {
+        "id": "4ad5b4e5-6cb9-4319-b06d-79f7626a76fe",
+        "name": "Kuwait",
+        "shortName": "KW"
+    },
+    {
+        "id": "b40b1ca5-ae32-49ca-9404-28e06e6b4691",
+        "name": "Kyrgzstan",
+        "shortName": "KG"
+    },
+    {
+        "id": "66f1a6d6-cefd-4950-970e-966329c8cfc4",
+        "name": "Laos",
+        "shortName": "LA"
+    },
+    {
+        "id": "79a71256-e2f7-4325-928a-9113f4aa1923",
+        "name": "Latvia",
+        "shortName": "LV"
+    },
+    {
+        "id": "7038f5ee-5221-465e-8ad1-b7ab982b691d",
+        "name": "Lebanon",
+        "shortName": "LB"
+    },
+    {
+        "id": "fe5b6eb3-ca2c-444e-9315-af3f419db348",
+        "name": "Lesotho",
+        "shortName": "LS"
+    },
+    {
+        "id": "b2131559-91ba-422d-8968-c676256b4f07",
+        "name": "Liberia",
+        "shortName": "LR"
+    },
+    {
+        "id": "8afdc55a-5f48-40c0-9d95-7939ffb7cb5b",
+        "name": "Libyan Arab Jamahiriya",
+        "shortName": "LY"
+    },
+    {
+        "id": "910751d9-54ef-48d7-bd34-3ef283144c96",
+        "name": "Liechtenstein",
+        "shortName": "LI"
+    },
+    {
+        "id": "3e269941-98ac-42ca-8a22-3ab21dee6cdb",
+        "name": "Lithuania",
+        "shortName": "LT"
+    },
+    {
+        "id": "5e8c2afd-7365-430b-a486-b5b7881bba49",
+        "name": "Luxembourg",
+        "shortName": "LU"
+    },
+    {
+        "id": "eb307efe-8552-4735-a710-bdd38122730e",
+        "name": "Macau",
+        "shortName": "MO"
+    },
+    {
+        "id": "79717e5f-774a-47ad-add1-912aa5ee7de7",
+        "name": "Macedonia",
+        "shortName": "MK"
+    },
+    {
+        "id": "358154f8-b025-4230-b801-76e52603380b",
+        "name": "Madagascar",
+        "shortName": "MG"
+    },
+    {
+        "id": "524ed520-2508-4dd9-87eb-4d91c046b632",
+        "name": "Malawi",
+        "shortName": "MW"
+    },
+    {
+        "id": "9a4fb30f-c2e0-4750-8226-f41635d7cf22",
+        "name": "Malaysia",
+        "shortName": "MY"
+    },
+    {
+        "id": "fa2820d6-de9a-4a18-a4b5-16559d46f446",
+        "name": "Maldives",
+        "shortName": "MV"
+    },
+    {
+        "id": "d9c0c4bf-9fb7-4603-83d0-840efd06e9f2",
+        "name": "Mali",
+        "shortName": "ML"
+    },
+    {
+        "id": "11d5399d-cb73-454c-ab32-b43c3cd55e9a",
+        "name": "Malta",
+        "shortName": "MT"
+    },
+    {
+        "id": "11c7d84f-a957-4e4c-b6a2-9adbf139682e",
+        "name": "Marshall Islands",
+        "shortName": "MH"
+    },
+    {
+        "id": "3f70cbd7-e745-446d-94f8-fefc8bc6e3a4",
+        "name": "Martinique",
+        "shortName": "MQ"
+    },
+    {
+        "id": "dc2e2c7b-90a8-44a3-9e81-018bb317a595",
+        "name": "Mauritania",
+        "shortName": "MR"
+    },
+    {
+        "id": "295a3462-af35-4c41-b182-a5c3b2d7dbd5",
+        "name": "Mauritius",
+        "shortName": "MU"
+    },
+    {
+        "id": "5d204eca-b8ef-408c-ab8e-451a1d017d52",
+        "name": "Mayotte",
+        "shortName": "YT"
+    },
+    {
+        "id": "3507261f-3c18-479b-b371-6802efb97121",
+        "name": "Micronesia, Federated States of",
+        "shortName": "FM"
+    },
+    {
+        "id": "159f844d-e5f1-4faf-ae66-e5f18959c010",
+        "name": "Moldova",
+        "shortName": "MD"
+    },
+    {
+        "id": "16324b02-ef3a-4ff3-b3f3-6eee0c032dab",
+        "name": "Monaco",
+        "shortName": "MC"
+    },
+    {
+        "id": "18832885-e45b-400e-acbb-40af8b1bcd95",
+        "name": "Mongolia",
+        "shortName": "MN"
+    },
+    {
+        "id": "b6e19d58-6652-4baf-91f7-75aefbe98e6b",
+        "name": "Montenegro",
+        "shortName": "ME"
+    },
+    {
+        "id": "df2a0c44-d919-422d-9ba2-b8acf81bf71b",
+        "name": "Morocco",
+        "shortName": "MA"
+    },
+    {
+        "id": "c7a520b5-78fe-4c9a-8f13-87f2eacba633",
+        "name": "Mozambique",
+        "shortName": "MZ"
+    },
+    {
+        "id": "ada42163-556f-4011-a2e1-37d42cc6ba61",
+        "name": "Myanmar",
+        "shortName": "MM"
+    },
+    {
+        "id": "8216f563-59ba-46a1-8df7-a5302f933fe6",
+        "name": "Namibia",
+        "shortName": "NA"
+    },
+    {
+        "id": "4e617190-644f-415f-901c-5b0bb296c618",
+        "name": "Nauru",
+        "shortName": "NR"
+    },
+    {
+        "id": "52149b1d-f889-446a-b59f-e61ca77917c8",
+        "name": "Nepal",
+        "shortName": "NP"
+    },
+    {
+        "id": "cc729429-eebe-45d5-b978-8e31d9e82137",
+        "name": "Netherlands",
+        "shortName": "NL"
+    },
+    {
+        "id": "76653eee-7014-4729-a343-ca50bab5bafe",
+        "name": "Netherlands Antilles",
+        "shortName": "AN"
+    },
+    {
+        "id": "0a816f32-420c-47f9-95cd-e5d8462a927f",
+        "name": "New Caledonia",
+        "shortName": "NC"
+    },
+    {
+        "id": "bf9d545f-1454-4b25-936a-5e761ab7f5ce",
+        "name": "New Zealand",
+        "shortName": "NZ"
+    },
+    {
+        "id": "4cdf5b11-0971-4158-800c-48f3ec3b802b",
+        "name": "Nicaragua",
+        "shortName": "NI"
+    },
+    {
+        "id": "512b7973-e41d-47e5-948c-b5988450f975",
+        "name": "Niger",
+        "shortName": "NE"
+    },
+    {
+        "id": "78b42808-ee4f-4b05-a582-95e0580cf373",
+        "name": "Nigeria",
+        "shortName": "NG"
+    },
+    {
+        "id": "193f0ed1-f6ee-4c19-979b-6cfa8c2f3f83",
+        "name": "Northern Mariana Islands",
+        "shortName": "MP"
+    },
+    {
+        "id": "6f27e8b0-3208-4a1a-b0ae-f861f9cf054a",
+        "name": "North Korea",
+        "shortName": "KP"
+    },
+    {
+        "id": "cdb75da8-417a-4ff2-b7aa-37af2249432f",
+        "name": "Norway",
+        "shortName": "NO"
+    },
+    {
+        "id": "b8e54ac8-0bb1-4b8d-a9cc-d0ba8b47ec9c",
+        "name": "Oman",
+        "shortName": "OM"
+    },
+    {
+        "id": "9e325498-b832-47f6-b909-15de11bd6ba6",
+        "name": "Pakistan",
+        "shortName": "PK"
+    },
+    {
+        "id": "2092b185-0f59-44a3-b1fa-5e046b1401bd",
+        "name": "Palau",
+        "shortName": "PW"
+    },
+    {
+        "id": "cfe9b284-d82c-4ea1-aadc-0b0d22492ca7",
+        "name": "Panama",
+        "shortName": "PA"
+    },
+    {
+        "id": "c6724962-8adb-4a9c-a671-4b9028fd40f5",
+        "name": "Papua New Guinea",
+        "shortName": "PG"
+    },
+    {
+        "id": "8522cdf9-f368-4959-a948-d805f6f12b3e",
+        "name": "Paraguay",
+        "shortName": "PY"
+    },
+    {
+        "id": "a9b3a111-e5c0-49e4-ae97-81411609a155",
+        "name": "Peru",
+        "shortName": "PE"
+    },
+    {
+        "id": "bf70bca3-44c7-4bc4-be83-129c826324be",
+        "name": "Philippines",
+        "shortName": "PH"
+    },
+    {
+        "id": "a62fa8e8-baf4-4c70-8311-9142a2de0b22",
+        "name": "Poland",
+        "shortName": "PL"
+    },
+    {
+        "id": "3a2ba99d-2f07-4251-8deb-fb2c50f7ad02",
+        "name": "Portugal",
+        "shortName": "PT"
+    },
+    {
+        "id": "fee0bc16-38c2-43bb-adf1-11197832cad9",
+        "name": "Puerto Rico",
+        "shortName": "PR"
+    },
+    {
+        "id": "8d68dc59-6dca-4fad-838e-17364d49c83a",
+        "name": "Qatar",
+        "shortName": "QA"
+    },
+    {
+        "id": "fd248ad2-f307-45cb-b6a4-3f49b995551b",
+        "name": "Reunion",
+        "shortName": "RE"
+    },
+    {
+        "id": "bce23162-08d0-4632-ba0a-e0d1ccdd8b5a",
+        "name": "Romania",
+        "shortName": "RO"
+    },
+    {
+        "id": "f132bdcd-0a6a-4167-9546-4e85c2e16cb9",
+        "name": "Russia",
+        "shortName": "RU"
+    },
+    {
+        "id": "915411ef-3036-4bad-b094-dbb545aa487d",
+        "name": "Russian Federation",
+        "shortName": "RQ"
+    },
+    {
+        "id": "a9344bfa-7dfe-462a-bc12-fd0ce0b20330",
+        "name": "Rwanda",
+        "shortName": "RW"
+    },
+    {
+        "id": "269026b2-3483-45d5-90ad-74b8998126ca",
+        "name": "Saint Kitts and Nevis",
+        "shortName": "KN"
+    },
+    {
+        "id": "754f26ad-4065-4b7e-b7cc-5633cae16433",
+        "name": "Saint Lucia",
+        "shortName": "LC"
+    },
+    {
+        "id": "22d04199-5df4-44d8-a979-afa46bb6463d",
+        "name": "Saint Pierre And Miquelon",
+        "shortName": "PM"
+    },
+    {
+        "id": "cf702969-64df-4af0-b7e9-f214f10da6d4",
+        "name": "Saint Vincent And The Grenadines",
+        "shortName": "VC"
+    },
+    {
+        "id": "cf683fe7-1ea9-4b0e-8dc8-6394b473ac0e",
+        "name": "Samoa",
+        "shortName": "WS"
+    },
+    {
+        "id": "3a98dfe1-7b40-40b3-96b8-c0ba33bbc0d7",
+        "name": "San Marino",
+        "shortName": "SM"
+    },
+    {
+        "id": "fa4b1568-c4e2-447c-addc-3432e8b3c296",
+        "name": "Sao Tome and Principe",
+        "shortName": "ST"
+    },
+    {
+        "id": "2c0b32cc-15bb-45a0-bded-a164cfd809e5",
+        "name": "Saudi Arabia",
+        "shortName": "SA"
+    },
+    {
+        "id": "a6aa1dbc-d6a3-4978-b463-f2e5c1921562",
+        "name": "Senegal",
+        "shortName": "SN"
+    },
+    {
+        "id": "485bc8ff-bd95-478a-9214-61d83a23d060",
+        "name": "Serbia",
+        "shortName": "RS"
+    },
+    {
+        "id": "e63c961d-aeee-4485-b006-368f319cc827",
+        "name": "Seychelles",
+        "shortName": "SC"
+    },
+    {
+        "id": "5ebd7804-f616-4b56-b8e0-abc23d4661fe",
+        "name": "Sierra Leone",
+        "shortName": "SL"
+    },
+    {
+        "id": "3946de4c-e42e-4591-b47a-8ee9efbda687",
+        "name": "Singapore",
+        "shortName": "SG"
+    },
+    {
+        "id": "bf6c23b2-1db4-4245-8feb-a8e5acef4e78",
+        "name": "Slovakia",
+        "shortName": "SK"
+    },
+    {
+        "id": "64b0e1f7-30c1-454b-bc39-50d3124f7157",
+        "name": "Slovenia",
+        "shortName": "SI"
+    },
+    {
+        "id": "2319136d-b560-41b9-b247-325005a5293f",
+        "name": "Solomon Islands",
+        "shortName": "SB"
+    },
+    {
+        "id": "a7c2067c-c0c7-4122-9428-3bca18efd8de",
+        "name": "Somalia",
+        "shortName": "SO"
+    },
+    {
+        "id": "12454885-4dfb-48da-bcf4-12d64416c5c9",
+        "name": "South Africa",
+        "shortName": "ZA"
+    },
+    {
+        "id": "f03afb7b-c2d5-4b06-8a14-dbbcd319dcd7",
+        "name": "South Georgia and the South Sandwich Islands",
+        "shortName": "GS"
+    },
+    {
+        "id": "9a9939c8-83a1-410c-92fa-2c0e56cd3175",
+        "name": "South Korea",
+        "shortName": "KR"
+    },
+    {
+        "id": "3b215746-0541-4f65-9daa-f97d2432e057",
+        "name": "South Sudan",
+        "shortName": "SS"
+    },
+    {
+        "id": "ce70a7ea-4da7-4628-8a87-e80b7b4fa275",
+        "name": "Spain",
+        "shortName": "ES"
+    },
+    {
+        "id": "aa2ddd54-d84e-45b9-85a2-730676004e6a",
+        "name": "Sri Lanka",
+        "shortName": "LK"
+    },
+    {
+        "id": "5524d4d3-b08b-40ac-b296-f1029799e0e8",
+        "name": "Sudan",
+        "shortName": "SD"
+    },
+    {
+        "id": "d5f0fd16-e474-478c-8836-a457d6626d7a",
+        "name": "Suriname",
+        "shortName": "SR"
+    },
+    {
+        "id": "e0a851c2-3f22-4187-a21b-7f9aca777ff4",
+        "name": "Svalbard and Jan Mayen Islands",
+        "shortName": "SJ"
+    },
+    {
+        "id": "6e0fb16c-f2d8-4800-8d88-95431a328b57",
+        "name": "Swaziland",
+        "shortName": "SZ"
+    },
+    {
+        "id": "4d283d8e-4408-4135-93eb-5fe593814fa3",
+        "name": "Sweden",
+        "shortName": "SE"
+    },
+    {
+        "id": "816aea86-a3a9-42b3-b559-5133fa88acef",
+        "name": "Switzerland",
+        "shortName": "CH"
+    },
+    {
+        "id": "36ab18ae-7c1c-4377-af98-5525c16dd609",
+        "name": "Syria",
+        "shortName": "SY"
+    },
+    {
+        "id": "fe0a6aaf-79cd-4b41-b02d-b133247a1f08",
+        "name": "Taiwan",
+        "shortName": "TW"
+    },
+    {
+        "id": "1ffb5be4-c58d-4876-9758-bc3c9597ff28",
+        "name": "Tajikistan",
+        "shortName": "TJ"
+    },
+    {
+        "id": "a8374d7f-651d-4958-b8ee-cdff2f011b6d",
+        "name": "Tanzania",
+        "shortName": "TZ"
+    },
+    {
+        "id": "f262bb22-8aea-4c80-8c61-87d3bef39e6c",
+        "name": "Thailand",
+        "shortName": "TH"
+    },
+    {
+        "id": "227b975e-bfd4-4f9e-b1cc-53494efc63da",
+        "name": "Togo",
+        "shortName": "TG"
+    },
+    {
+        "id": "5d4363d6-f91a-4eb3-b87e-51f441190a04",
+        "name": "Tokelau",
+        "shortName": "TK"
+    },
+    {
+        "id": "9660bde3-dd4c-43b1-a46e-dcc909b567aa",
+        "name": "Tonga",
+        "shortName": "TO"
+    },
+    {
+        "id": "0d318749-9c6c-440b-9a20-10e0b4aa125f",
+        "name": "Trinidad And Tobago",
+        "shortName": "TT"
+    },
+    {
+        "id": "4154b06c-ecd5-4126-86a8-db921ebd00d9",
+        "name": "Tunisia",
+        "shortName": "TN"
+    },
+    {
+        "id": "52a149b4-4d26-4861-90f9-4bf3c7c4cccf",
+        "name": "Turkey",
+        "shortName": "TR"
+    },
+    {
+        "id": "034cd6bb-9bb0-4af1-a743-f96d99a4ccb7",
+        "name": "Turkmenistan",
+        "shortName": "TM"
+    },
+    {
+        "id": "9d916da0-128b-4bba-a597-57055c81e1c6",
+        "name": "Turks and Caicos Islands",
+        "shortName": "TC"
+    },
+    {
+        "id": "6df4179d-dbf8-4fff-9d8f-03b672fbf207",
+        "name": "Tuvalu",
+        "shortName": "TV"
+    },
+    {
+        "id": "8040a620-0ff8-4720-9850-ef4ea83b0567",
+        "name": "Uganda",
+        "shortName": "UG"
+    },
+    {
+        "id": "5b031f12-a856-4a65-9a69-c9abcbfff675",
+        "name": "Ukraine",
+        "shortName": "UA"
+    },
+    {
+        "id": "afed3982-2532-4f28-9121-f0830cdd73e3",
+        "name": "United Arab Emirates",
+        "shortName": "AE"
+    },
+    {
+        "id": "06140a2d-70e9-4d99-ad0b-d8b55019f50d",
+        "name": "United Kingdom",
+        "shortName": "UK"
+    },
+    {
+        "id": "24dd42d7-6771-47ce-bae8-aa8876400006",
+        "name": "United Nations",
+        "shortName": "UN"
+    },
+    {
+        "id": "25568ad5-ea9b-44e6-a313-beb49b52c4e2",
+        "name": "United States",
+        "shortName": "US"
+    },
+    {
+        "id": "1f617276-97b5-4cb7-aaeb-bf64d08e1e8f",
+        "name": "United States Minor Outlying Islands",
+        "shortName": "UM"
+    },
+    {
+        "id": "eb029e39-f258-4c78-993d-8394800c1bb1",
+        "name": "Uruguay",
+        "shortName": "UY"
+    },
+    {
+        "id": "ddeb95c9-de04-44e5-85e8-3405138c7193",
+        "name": "Uzbekistan",
+        "shortName": "UZ"
+    },
+    {
+        "id": "8d6bf1ce-1ba8-4142-9847-1d34c98cbe87",
+        "name": "Vanuatu",
+        "shortName": "VU"
+    },
+    {
+        "id": "32781ffe-1122-469d-85d0-f02a9ddf4af3",
+        "name": "Vatican City State",
+        "shortName": "VA"
+    },
+    {
+        "id": "458aa5e4-aa54-4ca2-b15d-18678f232336",
+        "name": "Venezuela",
+        "shortName": "VE"
+    },
+    {
+        "id": "37c0240d-f949-4315-8a21-67aa72981669",
+        "name": "Vietnam",
+        "shortName": "VN"
+    },
+    {
+        "id": "a1eb4558-7a08-41b6-bbb2-2a8d5eb80349",
+        "name": "Virgin Islands, British",
+        "shortName": "VG"
+    },
+    {
+        "id": "44e50c7b-2482-4c13-81b6-42735e2f9f5f",
+        "name": "Virgin Islands, US",
+        "shortName": "VI"
+    },
+    {
+        "id": "8a1d6e22-64de-46c8-b8dd-cb62ee9bd840",
+        "name": "Wales",
+        "shortName": "WA"
+    },
+    {
+        "id": "24dc7753-f0c1-44be-a071-8675b70bbfd4",
+        "name": "Wallis and Futuna Islands",
+        "shortName": "WF"
+    },
+    {
+        "id": "558ef967-a92f-4083-8056-c0f14a09be40",
+        "name": "Yemen",
+        "shortName": "YE"
+    },
+    {
+        "id": "a2f14193-e04a-413d-b0dd-17b5105b79e5",
+        "name": "Yugoslavia",
+        "shortName": "YG"
+    },
+    {
+        "id": "463cdafd-5cd3-4cd0-9f3f-80c8c6bd807a",
+        "name": "Zaire",
+        "shortName": "ZR"
+    },
+    {
+        "id": "912a71ff-ca01-4ef7-9646-4130d68bf414",
+        "name": "Zambia",
+        "shortName": "ZM"
+    },
+    {
+        "id": "1cd8f6d7-688d-4aa3-b3dd-a92b6befef6e",
+        "name": "Zimbabwe",
+        "shortName": "ZW"
+    }
+]
+}
