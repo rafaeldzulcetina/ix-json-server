@@ -10,13 +10,29 @@ const parse = require('parse-link-header');
 
 server.use(jsonServer.rewriter(routes))
 
+getValueParam = (url, paramName) =>{
+    let value = '';
+    let arrayStr = url.split('?');
+    arrayStr = arrayStr[1].split('&')
+
+    arrayStr.map((param) => {
+        const [p, v] = param.split('=');
+
+        if (p === paramName)
+            value = v
+    })
+    return value;
+}
+
 router.render = (req, res) => {
     switch (req.method) {
         case 'GET':
+            let items = res.locals.data;
+            console.log(!req.originalUrl.includes('pageNumber'))
             if(req.query.id){
                 res.jsonp({
                     data: {
-                        items :res.locals.data,
+                        items,
                     },
                     errors: [],
                     warnings: []
@@ -24,23 +40,14 @@ router.render = (req, res) => {
             }else if (!req.originalUrl.includes('_page')){
                 res.jsonp({
                     data: {
-                        items :res.locals.data,
+                        items,
                     },
                     errors: [],
                     warnings: []
                 })
             }
             if(req.originalUrl.includes('_page')){
-                /**codigo luiz */
-                let arrayStr = req.originalUrl.split('?');
-                arrayStr = arrayStr[1].split('&')
-                
-                arrayStr.map((param) => {
-                    const [p, v] = param.split('=');
-
-                    if (p === '_limit')
-                        this.perPage = v
-                })
+                this.perPage = getValueParam(req.originalUrl, '_limit');
 
                 //Verificar si se puede paginar
                 if(res.get('link') !== ''){
@@ -52,14 +59,22 @@ router.render = (req, res) => {
                     this.lastPage = pagination.last._page
                     this.total = this.limit
                 }else{
-                    this.limit = res.locals.data.length - 1
+                    this.limit = items.length - 1;
                     this.currentPage = 1
                     this.lastPage = 1
                 }
+
+                if(req.originalUrl.includes('startDate')){
+                    this.startDate = getValueParam(req.originalUrl, 'startDate');
+                    this.endDate = getValueParam(req.originalUrl, 'endDate');
+                    items = items.filter((item) => (item.date >= this.startDate && item.date <= this.endDate));
+                    this.limit = items.length;
+                }
+
                 //const limit = Number(pagination.last._limit)
                 res.jsonp({
                     data: {
-                        items :res.locals.data,
+                        items,
                         currentPage: this.currentPage,
                         from: 1,
                         lastPage: this.lastPage,
