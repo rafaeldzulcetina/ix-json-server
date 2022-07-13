@@ -1,0 +1,48 @@
+{
+  "resorts": [
+    {
+      "id": 1,
+      "name": "Zona Moon",
+      "children": [
+        {
+          "id": 4,
+          "name": "Moon Grand"
+        },
+        {
+          "id": 5,
+          "name": "Nizuc"
+        },
+        {
+          "id": 6,
+          "name": "Sunrise"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sala Cabos"
+    },
+    {
+      "id": 3,
+      "name": "Zona Hotelera",
+      "children": [
+        {
+          "id": 7,
+          "name": "Beach Palace"
+        },
+        {
+          "id": 8,
+          "name": "Le Blanc Cancún"
+        },
+        {
+          "id": 9,
+          "name": "Sun Palace"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Jamaica"
+    }
+  ]
+}
