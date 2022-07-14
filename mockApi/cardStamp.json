@@ -1,0 +1,14 @@
+{
+  "cardStamp":[
+    {
+      "id":1,
+      "name":"Debito",
+      "active":true
+    },
+    {
+      "id":2,
+      "name":"Credito",
+      "active":true
+    }
+  ]
+}

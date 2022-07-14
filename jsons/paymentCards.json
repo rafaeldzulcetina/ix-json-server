@@ -1,0 +1,12 @@
+{
+  "paymentCards":[
+    {
+      "holderName": "Arturo GUerrero",
+      "number": "1234123412341234",
+      "code": "123",
+      "expirationDate": "12/34",
+      "cardTypeFinancingId": 1,
+      "cardStampFinancingId": 2
+    }
+  ]
+}
