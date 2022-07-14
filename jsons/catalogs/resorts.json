@@ -5,21 +5,21 @@
       "name": "Zona Moon",
       "children": [
         {
-          "id": 4,
+          "id": "1dbc9d4e-bf5f-45c1-9744-53bcba8760ab",
           "name": "Moon Grand"
         },
         {
-          "id": 5,
+          "id": "b96ec0d3-8fa5-4c39-becd-0c0413c64012",
           "name": "Nizuc"
         },
         {
-          "id": 6,
-          "name": "Sunrise"
+          "id": "26ba3f6b-6e72-4cab-8e2a-b0fd90fe84f6",
+          "name": "Sunrise fake Id"
         }
       ]
     },
     {
-      "id": 2,
+      "id": "ad587794-53a3-4cfe-ad78-32d794221200",
       "name": "Sala Cabos"
     },
     {
@@ -27,21 +27,21 @@
       "name": "Zona Hotelera",
       "children": [
         {
-          "id": 7,
+          "id": "758afaf7-b150-4d42-b132-8b324740664c",
           "name": "Beach Palace"
         },
         {
-          "id": 8,
+          "id": "c0b5f2eb-72be-4019-b994-ed8a2f0e7b5a",
           "name": "Le Blanc Cancún"
         },
         {
-          "id": 9,
+          "id": "4d2afd80-1e4e-44b5-b3c3-86b83892c116",
           "name": "Sun Palace"
         }
       ]
     },
     {
-      "id": 4,
+      "id": "125f32f6-1546-467b-91c6-7686fd3ceb0a",
       "name": "Jamaica"
     }
   ]

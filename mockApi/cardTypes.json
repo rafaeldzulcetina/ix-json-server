@@ -1,7 +1,21 @@
 { "cardType": [
     {
     "id": 1,
-    "name": "VISA",
+    "name": "Visa",
+    "createdAt": "2022-05-03T20:17:22.985Z",
+    "updatedAt": "2022-05-03T20:17:22.985Z",
+    "active": true
+    },
+    {
+    "id": 2,
+    "name": "Master Card",
+    "createdAt": "2022-05-03T20:17:22.985Z",
+    "updatedAt": "2022-05-03T20:17:22.985Z",
+    "active": true
+    },
+    {
+    "id": 3,
+    "name": "American Express",
     "createdAt": "2022-05-03T20:17:22.985Z",
     "updatedAt": "2022-05-03T20:17:22.985Z",
     "active": true
