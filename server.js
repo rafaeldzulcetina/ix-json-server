@@ -24,11 +24,24 @@ getValueParam = (url, paramName) =>{
     return value;
 }
 
+getItemsForSalesRoomFilter = (items, filters) => {
+    let list = [];
+    items.map((item) => {
+        filters.map((filter) => { if (item.salesRoom.id === filter) return list.push(item) });
+    });
+    return list;
+}
+
+getFiltersParam = (filters) => {
+    filters = filters.substring(1, filters.length - 1);
+    return filters.split(',');
+}
+
 router.render = (req, res) => {
     switch (req.method) {
         case 'GET':
             let items = res.locals.data;
-            console.log(!req.originalUrl.includes('pageNumber'))
+
             if(req.query.id){
                 res.jsonp({
                     data: {
@@ -65,9 +78,16 @@ router.render = (req, res) => {
                 }
 
                 if(req.originalUrl.includes('startDate')){
-                    this.startDate = getValueParam(req.originalUrl, 'startDate');
-                    this.endDate = getValueParam(req.originalUrl, 'endDate');
-                    items = items.filter((item) => (item.date >= this.startDate && item.date <= this.endDate));
+                    const startDate = getValueParam(req.originalUrl, 'startDate');
+                    const endDate = getValueParam(req.originalUrl, 'endDate');
+                    items = items.filter((item) => (item.date >= startDate && item.date <= endDate));
+                    this.limit = items.length;
+                }
+
+                if (req.originalUrl.includes('filters')) {
+                    let filters = getValueParam(req.originalUrl, 'filters');
+                    filters = getFiltersParam(filters);
+                    items = getItemsForSalesRoomFilter(items, filters);
                     this.limit = items.length;
                 }
 
