@@ -8,18 +8,26 @@ const guests = require('./jsons/guests.json');
 const resorts = require('./jsons/catalogs/resorts.json');
 const countries = require('./jsons/catalogs/countries.json');
 const nationalities = require('./jsons/catalogs/nationalities.json');
+const paymentCards = require('./jsons/paymentCards.json');
+const registerdPaymentCards = require('./jsons/registeredPaymentCards.json');
+const cardStamp = require('./mockApi/cardStamp.json');
+const cardTypes = require('./mockApi/cardTypes.json');
 
-module.exports = function () {
-    return Object.assign({},
-        db_invitations,
-        db_salesRooms,
-        db_tours,
-        db_ids,
-        contract_status,
-        contract_roles,
-        guests,
-        resorts,
-        countries,
-        nationalities
-    )
+module.exports = function() {
+  return Object.assign({},
+    db_invitations,
+    db_salesRooms,
+    db_tours,
+    db_ids,
+    contract_status,
+    contract_roles,
+    guests,
+    resorts,
+    countries,
+    nationalities,
+    paymentCards,
+    registerdPaymentCards,
+    cardTypes,
+    cardStamp
+  )
 }
