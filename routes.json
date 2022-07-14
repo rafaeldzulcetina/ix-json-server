@@ -1,8 +1,8 @@
 {
   "/salesRoom?pageNumber=:pageNumber&size=:size": "/salesRoom?_page=:pageNumber&_limit=:size",
   "/invitations?pageNumber=:pageNumber&size=:size/id=:id": "/invitations?_page=:pageNumber&_limit=:size&_id=:id",
-  "/tours?pageNumber=:pageNumber&size=:size&search=:search&startDate=:startDate&endDate=:endDate":
-  "/tours?_page=:pageNumber&_limit=:size&q=:search&startDate=:startDate&endDate=:endDate",
+  "/tours?pageNumber=:pageNumber&size=:size&search=:search&startDate=:startDate&endDate=:endDate&filters=:filters":
+  "/tours?_page=:pageNumber&_limit=:size&q=:search&startDate=:startDate&endDate=:endDate&filters=:filters",
   "/identifications?pageNumber=:pageNumber&size=:size": "/identifications?_page=:pageNumber&_limit=:size",
   "/contract_status?pageNumber=:pageNumber&size=:size": "/contract_status?_page=:pageNumber&_limit=:size",
   "/capture_phases?pageNumber=:pageNumber&size=:size": "/capture_phases?_page=:pageNumber&_limit=:size",
