@@ -12,6 +12,7 @@ server.use(jsonServer.rewriter(routes))
 
 getValueParam = (url, paramName) =>{
     let value = '';
+
     let arrayStr = url.split('?');
     arrayStr = arrayStr[1].split('&')
 
@@ -21,20 +22,35 @@ getValueParam = (url, paramName) =>{
         if (p === paramName)
             value = v
     })
+
     return value;
+}
+
+getValueParamArrays = (url, paramName) =>{
+    let value = '';
+    let arrayValues = [];
+
+    let arrayStr = url.split('?');
+    arrayStr = arrayStr[1].split('&');
+
+    arrayStr.map((param) => {
+        const [p, v] = param.split('=');
+
+        if (p === paramName)
+            arrayValues.push(v);
+    })
+
+    return arrayValues;
 }
 
 getItemsForSalesRoomFilter = (items, filters) => {
     let list = [];
+
     items.map((item) => {
         filters.map((filter) => { if (item.salesRoom.id === filter) return list.push(item) });
     });
-    return list;
-}
 
-getFiltersParam = (filters) => {
-    filters = filters.substring(1, filters.length - 1);
-    return filters.split(',');
+    return list;
 }
 
 router.render = (req, res) => {
@@ -84,9 +100,8 @@ router.render = (req, res) => {
                     this.limit = items.length;
                 }
 
-                if (req.originalUrl.includes('filters')) {
-                    let filters = getValueParam(req.originalUrl, 'filters');
-                    filters = getFiltersParam(filters);
+                if (req.originalUrl.includes('filters[]')) {
+                    let filters = getValueParamArrays(req.originalUrl, 'filters[]');
                     items = getItemsForSalesRoomFilter(items, filters);
                     this.limit = items.length;
                 }
