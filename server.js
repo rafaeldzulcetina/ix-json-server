@@ -110,12 +110,12 @@ router.render = (req, res) => {
                 res.jsonp({
                     data: {
                         items,
-                        currentPage: this.currentPage,
+                        currentPage: Number(this.currentPage),
                         from: 1,
-                        lastPage: this.lastPage,
-                        perPage: this.perPage,
-                        to: this.perPage,
-                        total: this.limit
+                        lastPage: Number(this.lastPage),
+                        perPage: Number(this.perPage),
+                        to: Number(this.perPage),
+                        total: Number(this.limit)
                     },
                     errors: [],
                     warnings: []
