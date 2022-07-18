@@ -8,7 +8,7 @@
   "/capture_phases?pageNumber=:pageNumber&size=:size": "/capture_phases?_page=:pageNumber&_limit=:size",
   "/contract_roles?pageNumber=:pageNumber&size=:size": "/contract_roles?_page=:pageNumber&_limit=:size",
   "/resorts": "/resorts",
-  "/guests?pageNumber=:pageNumber&size=:size&guestId=:guestId&name=:name&affiliation=:affiliation": "/guests?_page=:pageNumber&_limit=:size&_guestId=:guestId&_name=:name&_affiliation=:affiliation",
+  "arrival/guests?pageNumber=:pageNumber&size=:size&guestId=:guestId&name=:name&affiliation=:affiliation": "/guests?_page=:pageNumber&_limit=:size&_guestId=:guestId&_name=:name&_affiliation=:affiliation",
   "/countries?pageNumber=:pageNumber&size=:size": "/countries?_page=:pageNumber&_limit=:size",
   "/nationalities?pageNumber=:pageNumber&size=:size": "/nationalities?_page=:pageNumber&_limit=:size"
 }
