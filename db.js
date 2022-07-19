@@ -12,6 +12,7 @@ const paymentCards = require('./jsons/paymentCards.json');
 const registerdPaymentCards = require('./jsons/registeredPaymentCards.json');
 const cardStamp = require('./mockApi/cardStamp.json');
 const cardTypes = require('./mockApi/cardTypes.json');
+const participants = require('./jsons/participantsByTour.json');
 
 module.exports = function() {
   return Object.assign({},
@@ -28,6 +29,7 @@ module.exports = function() {
     paymentCards,
     registerdPaymentCards,
     cardTypes,
-    cardStamp
+    cardStamp,
+    participants,
   )
 }

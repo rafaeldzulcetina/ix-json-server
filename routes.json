@@ -10,5 +10,6 @@
   "/resorts": "/resorts",
   "/guests?pageNumber=:pageNumber&size=:size&guestId=:guestId&name=:name&affiliation=:affiliation": "/guests?_page=:pageNumber&_limit=:size&_guestId=:guestId&_name=:name&_affiliation=:affiliation",
   "/countries?pageNumber=:pageNumber&size=:size": "/countries?_page=:pageNumber&_limit=:size",
-  "/nationalities?pageNumber=:pageNumber&size=:size": "/nationalities?_page=:pageNumber&_limit=:size"
+  "/nationalities?pageNumber=:pageNumber&size=:size": "/nationalities?_page=:pageNumber&_limit=:size",
+  "/participants/id=:id": "/participants?_id=:id"
 }
