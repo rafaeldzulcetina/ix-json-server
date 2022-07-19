@@ -4,120 +4,79 @@
       "id": "3684ce03-55f9-43e6-b261-32d5948a0f9f",
       "couples": [
         {
-          "origin": "inhouse",
-          "inhouseInvitationId": "189ea2fa-bbd0-4f2a-b6d1-e7edc890de91",
-          "invoice": 1515,
-          "membership": "233445",
-          "reservationNumber": "2234",
+          "invitationId": "189ea2fa-bbd0-4f2a-b6d1-e7edc890de91",
           "coupleId": "5b59e1a4-58cb-43a0-b910-4c039681f15d",
-          "persons": [
+          "people": [
             {
               "id": "e5e5499d-9c39-4c83-b49f-1cee22ca27f2",
-              "createdAt": "2022-02-10T16:52:08.455Z",
-              "updatedAt": "2022-02-16T23:55:25.255Z",
-              "active": true,
+              "profileId": "5b59e1a4-58cb-43a0-b910-4c039681f15d",
               "name": "Ricardo",
               "lastname": "Can",
               "code": "IX15920",
               "mail": "rcan@palaceresorts.com",
               "phone": "1234567890",
-              "age": null,
-              "tourAttended": true,
-              "reference": null,
-              "version": null
+              "country": "5b59e1a4-58cb-43a0-b910-4c039681f15d",
+              "nationality": "5a59a1a4-58cb-43a0-b910-4c039681f15d",
+              "active": true,
+              "age": null
             },
             {
-              "id": "f5e5499d-9c39-4c83-b49f-1cee22ca27f2",
-              "createdAt": "2022-02-10T16:52:08.455Z",
-              "updatedAt": "2022-02-16T23:55:25.255Z",
-              "active": true,
-              "name": "Rodolfo",
-              "lastname": "Dzul",
-              "code": "IX15920",
-              "mail": "rdzul@palaceresorts.com",
-              "phone": "1234567890",
-              "age": null,
-              "tourAttended": true,
-              "reference": null,
-              "version": null
-            }
-          ],
-          "coupleStatus": "TOUR",
-          "createdAt": "2022-07-08T23:24:14.671Z"
-        },
-        {
-          "origin": "inhouse",
-          "inhouseInvitationId": "189ea2fa-bbd0-4f2a-b6d1-e7edc890de91",
-          "invoice": 1515,
-          "membership": "233446",
-          "reservationNumber": "2235",
-          "coupleId": "5b59e1a4-58cb-43a0-b910-4c039681f15f",
-          "persons": [
-            {
-              "id": "e5e5499d-9c39-4c83-b49f-1cee22ca27f3",
-              "createdAt": "2022-02-10T16:52:08.455Z",
-              "updatedAt": "2022-02-16T23:55:25.255Z",
-              "active": true,
+              "id": "e5e5498d-9c39-4c83-b49f-1cee22ca27f2",
+              "profileId": "5b59e1a4-58cb-43a0-b910-4c039881f15d",
               "name": "Roberto",
               "lastname": "Perez",
               "code": "IX15921",
               "mail": "roperez@palaceresorts.com",
-              "phone": "1234566890",
-              "age": 63,
-              "tourAttended": true,
-              "reference": null,
-              "version": null
+              "phone": "1234567830",
+              "country": "5b59e1a4-58cb-33a0-b910-4c039681f15d",
+              "nationality": "5a59a1a4-58cb-33a0-b910-4c039681f15d",
+              "active": true,
+              "age": null
             }
-          ],
-          "coupleStatus": "TOUR",
-          "createdAt": "2022-07-08T23:24:14.671Z"
+          ]
+        },
+        {
+          "invitationId": "183ea2fa-bbd0-4f2a-b6d1-e7edc890de91",
+          "coupleId": "5b53e1a4-58cb-43a0-b910-4c039681f15d",
+          "people": [
+            {
+              "id": "e5e5439d-9c39-4c83-b49f-1cee22ca27f2",
+              "profileId": "5b39e1a4-58cb-43a0-b910-4c039681f15d",
+              "name": "Luz",
+              "lastname": "Aramburo",
+              "code": "IX15923",
+              "mail": "laramburo@palaceresorts.com",
+              "phone": "1234567490",
+              "country": "5b59e1a3-58cb-43a0-b910-4c039681f15d",
+              "nationality": "5a39a1a4-58cb-43a0-b910-4c039681f15d",
+              "active": true,
+              "age": null
+            }
+          ]
         }
       ]
     },
     {
-      "id": "3684ce03-55f9-43e6-b261-32d5948a0f9f",
+      "id": "3684ce02-55f9-43e6-b261-32d5948a0f9f",
       "couples": [
         {
-          "origin": "inhouse",
-          "inhouseInvitationId": "189ea2fa-bbd0-4f2a-b6d1-e7edc890de91",
-          "invoice": 1515,
-          "membership": "233445",
-          "reservationNumber": "2234",
-          "coupleId": "5b59e1a4-58cb-43a0-b910-4c039681f15d",
-          "persons": [
+          "invitationId": "189ea2ea-bbd0-4f2a-b6d1-e7edc890de91",
+          "coupleId": "5b59e1a1-58cb-43a0-b910-4c039681f15d",
+          "people": [
             {
-              "id": "e5e5499d-9c39-4c83-b49f-1cee22ca27f2",
-              "createdAt": "2022-02-10T16:52:08.455Z",
-              "updatedAt": "2022-02-16T23:55:25.255Z",
+              "id": "e5e5499d-9c19-4c83-b49f-1cee22ca27f2",
+              "profileId": "5b51e1a4-58cb-43a0-b910-4c039681f15d",
+              "name": "Christopher",
+              "lastname": "Andrade",
+              "code": "IX15120",
+              "mail": "chris.andrade@palaceresorts.com",
+              "phone": "1234567891",
+              "country": "5b59e1a3-58cb-43a0-b910-4c039681f15d",
+              "nationality": "5a52a1a4-58cb-43a0-b910-4c039681f15d",
               "active": true,
-              "name": "Ricardo",
-              "lastname": "Can",
-              "code": "IX15920",
-              "mail": "rcan@palaceresorts.com",
-              "phone": "1234567890",
-              "age": null,
-              "tourAttended": true,
-              "reference": null,
-              "version": null
-            },
-            {
-              "id": "f5e5499d-9c39-4c83-b49f-1cee22ca27f2",
-              "createdAt": "2022-02-10T16:52:08.455Z",
-              "updatedAt": "2022-02-16T23:55:25.255Z",
-              "active": true,
-              "name": "Rodolfo",
-              "lastname": "Dzul",
-              "code": "IX15920",
-              "mail": "rdzul@palaceresorts.com",
-              "phone": "1234567890",
-              "age": null,
-              "tourAttended": true,
-              "reference": null,
-              "version": null
+              "age": null
             }
-          ],
-          "coupleStatus": "TOUR",
-          "createdAt": "2022-07-08T23:24:14.671Z"
+          ]
         }
       ]
     }
