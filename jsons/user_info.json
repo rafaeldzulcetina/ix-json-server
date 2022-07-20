@@ -1,0 +1,32 @@
+{
+  "user": {
+    "id": "3b1bebcc-2bfd-45e3-b191-c3791757044e",
+    "createdAt": "2022-02-17T19:05:08.198Z",
+    "updatedAt": "2022-02-17T19:05:08.198Z",
+    "active": true,
+    "username": "rdzul",
+    "code": "92",
+    "version": null,
+    "person": {
+      "id": "dcc0ffd1-2d26-43ab-8ca7-2ec6e47bdb4f",
+      "createdAt": "2022-03-07T17:29:06.799Z",
+      "updatedAt": "2022-03-07T17:29:06.799Z",
+      "active": true,
+      "name": "Rodolfo Rafael",
+      "lastname": "",
+      "code": "IX15595",
+      "mail": "luis.guerrero@xid.com.mx",
+      "phone": "993265656",
+      "age": null,
+      "tourAttended": true,
+      "reference": null,
+      "version": null
+    },
+    "guestService": {
+      "id": "d3b49b00-c53c-4f27-9984-fe53fc6c9f70",
+      "createdAt": "2022-04-28T16:08:21.582Z",
+      "updatedAt": "2022-04-28T16:08:21.582Z",
+      "active": true
+    }
+  }
+}

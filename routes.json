@@ -1,8 +1,7 @@
 {
   "/salesRoom?pageNumber=:pageNumber&size=:size": "/salesRoom?_page=:pageNumber&_limit=:size",
   "/invitations?pageNumber=:pageNumber&size=:size/id=:id": "/invitations?_page=:pageNumber&_limit=:size&_id=:id",
-  "/tours?pageNumber=:pageNumber&size=:size&search=:search&startDate=:startDate&endDate=:endDate&filters=:filters":
-  "/tours?_page=:pageNumber&_limit=:size&q=:search&startDate=:startDate&endDate=:endDate&filters=:filters",
+  "/tours?pageNumber=:pageNumber&size=:size&search=:search&startDate=:startDate&endDate=:endDate&filters=:filters": "/tours?_page=:pageNumber&_limit=:size&q=:search&startDate=:startDate&endDate=:endDate&filters=:filters",
   "/identifications?pageNumber=:pageNumber&size=:size": "/identifications?_page=:pageNumber&_limit=:size",
   "/contract_status?pageNumber=:pageNumber&size=:size": "/contract_status?_page=:pageNumber&_limit=:size",
   "/capture_phases?pageNumber=:pageNumber&size=:size": "/capture_phases?_page=:pageNumber&_limit=:size",
@@ -11,5 +10,6 @@
   "/icx-arrival/api/v1/arrival/guests?pageNumber=:pageNumber&size=:size&guestId=:guestId&name=:name&affiliation=:affiliation": "/icx-arrival/api/v1/arrival/guests?_page=:pageNumber&_limit=:size&_guestId=:guestId&_name=:name&_affiliation=:affiliation",
   "/countries?pageNumber=:pageNumber&size=:size": "/countries?_page=:pageNumber&_limit=:size",
   "/nationalities?pageNumber=:pageNumber&size=:size": "/nationalities?_page=:pageNumber&_limit=:size",
-  "/participants/id=:id": "/participants?_id=:id"
+  "/participants/id=:id": "/participants?_id=:id",
+  "/dev/icx-couple/api/v1/user/token": "/user"
 }
