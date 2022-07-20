@@ -11,5 +11,5 @@
   "/countries?pageNumber=:pageNumber&size=:size": "/countries?_page=:pageNumber&_limit=:size",
   "/nationalities?pageNumber=:pageNumber&size=:size": "/nationalities?_page=:pageNumber&_limit=:size",
   "/participants/id=:id": "/participants?_id=:id",
-  "/dev/icx-couple/api/v1/user/token": "/user"
+  "/dev/icx-user/api/v1/user/token": "/user"
 }
