@@ -15,8 +15,8 @@
     {
       "id": 3,
       "key": "payer",
-      "name": "Pagador",
-      "name_english": "Payer"
+      "name": "Solo pagador",
+      "name_english": "Payer Only"
     }
   ]
 }
